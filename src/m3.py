@@ -4,8 +4,9 @@ This module lets you practice DEBUGGING when LOGIC ERRORS occur.
 That is, no run-time exception occurs, but the function simply
 does not do the right thing.
 
-Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
+Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
+         Valerie Galluzzi, Mark Hays, Amanda Stouder, Aaron Wilkin,
+         their colleagues, and PUT_YOUR_NAME_HERE.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
