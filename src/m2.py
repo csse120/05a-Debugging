@@ -13,7 +13,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 
 import rosegraphics as rg
 
-########################################################################
+###############################################################################
 #
 # TODO: 2. READ these instructions, ASKING QUESTIONS as needed.
 #
@@ -41,7 +41,7 @@ import rosegraphics as rg
 #   When you believe you understand these instructions,
 #   change the above TO DO to DONE.
 #
-########################################################################
+###############################################################################
 
 
 def main():
@@ -49,10 +49,10 @@ def main():
     run_test_all()
 
 
-########################################################################
+###############################################################################
 # Students: Do NOT change the following tests.
 #           There are NO errors in the TESTS.
-########################################################################
+###############################################################################
 def run_test_all():
     """ Tests ALL the functions in this module. """
     # Test broken_1:
@@ -110,10 +110,10 @@ def run_test_all():
     print()
 
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # TODO: 3. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
 #          to correct the mistake(s) in the following function.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 def broken_1(circle, window):
     """
     What comes in: an rg.Circle and an rg.RoseWindow.
@@ -136,10 +136,10 @@ def broken_1(circle, window):
     circle2.render()
 
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # TODO: 4. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
 #          to correct the mistake(s) in the following function.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 def broken_2(x, y, window):
     """
     What comes in: Positive integers x and y, and an rg.RoseWindow.
@@ -160,10 +160,10 @@ def broken_2(x, y, window):
     window.render()
 
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # TODO: 5. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
 #          to correct the mistake(s) in the following function.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 def broken_3(n, point, length, distance_between_lines, window):
     """
     What comes in: The four arguments are:
@@ -199,10 +199,10 @@ def broken_3(n, point, length, distance_between_lines, window):
         b = rg.Point(b.x + distance_between_lines, b.y)
 
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # TODO: 6. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
 #          to correct the mistake(s) in the following function.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 def broken_4(x, y, radius, window):
     """
     What comes in: Positive integers x and y, and an rg.RoseWindow.
@@ -225,10 +225,10 @@ def broken_4(x, y, radius, window):
     window.render()
 
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # TODO: 7. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
 #          to correct the mistake(s) in the following function.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 def broken_5(circle, window):
     """
     What comes in: an rg.Circle and an rg.RoseWindow.
@@ -252,10 +252,10 @@ def broken_5(circle, window):
     window.render()
 
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # TODO: 8. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
 #          to correct the mistake(s) in the following function.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 def broken_6(n):
     """
     What comes in:  A positive integer n.
@@ -270,7 +270,7 @@ def broken_6(n):
     return total
 
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 main()
