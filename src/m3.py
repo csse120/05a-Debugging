@@ -5,7 +5,7 @@ That is, no run-time exception occurs, but the function simply
 does not do the right thing.
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
-         Valerie Galluzzi, Mark Hays, Amanda Stouder, Aaron Wilkin,
+         Valerie Galluzzi, Mark Hays, Amanda Stouder, Derek Whitley,
          their colleagues, and PUT_YOUR_NAME_HERE.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
